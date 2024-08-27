@@ -7,7 +7,6 @@ public class mainapp {
     	    	   };
     	    	   int add1=add.add(45,67);
     	    	   System.out.println("addition is:"+add1);   
-
-    	        
+ 
     	    }
 }
